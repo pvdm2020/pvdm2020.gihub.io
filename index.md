@@ -4,3 +4,7 @@ Tony Stark alias Iron Man ist der Anführer der Avengers und leitet die Firma St
 * Philanthrop
 * Genie
 * Avenger
+
+Wie Iron Man im ersten und im letzten Teil sagte:
+
+> I am Iron Man
